@@ -1,31 +1,31 @@
-# 🔐 MERN Stack Authentication App
+# MERN Stack Authentication App
 
 A modern secure and production grade full-stack **authentication system** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. This app is currently under development, focused on providing a scalable and clean architecture for user login, registration, protected routes, and session/token management. Will implement also the social authentication. 
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 | Component | Status        |
 |-----------|---------------|
-| ✅ Frontend (React) | Completed     |
-| 🚧 Backend (Node.js + Express + MongoDB) | In Development |
+| Frontend (React) | Completed     |
+| Backend (Node.js + Express + MongoDB) | In Development |
 
 ---
 
-## 📌 Planned Features
+## Planned Features
 
-- 🔐 User Registration & Login  
-- 🛡️ JWT-based Authentication and social authentication as well, using passport
-- 👤 User Profiles  
-- 🔒 Protected Routes  
-- 📦 MongoDB integration with Mongoose  
-- ⚙️ Error Handling and Form Validation  
-- 🌐 Responsive UI built with React + CSS (Tailwind/Vanilla)
+-  User Registration & Login  
+-  JWT-based Authentication and social authentication as well, using passport
+-  User Profiles  
+-  Protected Routes  
+-  MongoDB integration with Mongoose  
+-  Error Handling and Form Validation  
+-  Responsive UI built with React + CSS (Tailwind/Vanilla)
 
 ---
 
-## 🖥️ Frontend Tech Stack
+## Frontend Tech Stack
 
 - **React.js**
 - **React Router**
@@ -35,7 +35,7 @@ A modern secure and production grade full-stack **authentication system** built 
 
 ---
 
-## 🧠 Backend Tech Stack
+## Backend Tech Stack
 
 - **Node.js**
 - **Express.js**
@@ -47,7 +47,7 @@ A modern secure and production grade full-stack **authentication system** built 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 > Currently, only the frontend is functional. Backend setup is in progress.
 
