@@ -1,12 +1,58 @@
-# React + Vite
+# 🔐 MERN Stack Authentication App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern secure and production grade full-stack **authentication system** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. This app is currently under development, focused on providing a scalable and clean architecture for user login, registration, protected routes, and session/token management. Will implement also the social authentication. 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚧 Project Status
 
-## Expanding the ESLint configuration
+| Component | Status        |
+|-----------|---------------|
+| ✅ Frontend (React) | Completed     |
+| 🚧 Backend (Node.js + Express + MongoDB) | In Development |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Planned Features
+
+- 🔐 User Registration & Login  
+- 🛡️ JWT-based Authentication and social authentication as well, using passport
+- 👤 User Profiles  
+- 🔒 Protected Routes  
+- 📦 MongoDB integration with Mongoose  
+- ⚙️ Error Handling and Form Validation  
+- 🌐 Responsive UI built with React + CSS (Tailwind/Vanilla)
+
+---
+
+## 🖥️ Frontend Tech Stack
+
+- **React.js**
+- **React Router**
+- **Axios**
+- **Context API** 
+- **Tailwind CSS** or custom styling
+
+---
+
+## 🧠 Backend Tech Stack
+
+- **Node.js**
+- **Express.js**
+- **MongoDB** with **Mongoose**
+- **bcrypt** for password hashing
+- **jsonwebtoken** for JWT tokens
+- **passportjs** for social auth
+- **dotenv** for environment variables
+
+---
+
+## 🚀 Getting Started
+
+> Currently, only the frontend is functional. Backend setup is in progress.
+
+### 📦 Clone the Repo
+
+```bash
+git clone https://github.com/Sas3380/Authentication_app_in_MERN.git
+cd Authentication_app_in_MERN
